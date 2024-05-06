@@ -11,7 +11,7 @@
 ```
 /exec <lang id>
 
-\```<lang id(任意)>
+```<lang id(任意)>
 
 code...
 
